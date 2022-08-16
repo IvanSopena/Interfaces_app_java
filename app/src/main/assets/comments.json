@@ -1,0 +1,43 @@
+[
+  {
+    "idComment": 1,
+    "id_restaurant": 1,
+    "name": "Bun's Restaurant",
+    "Comment": "Me ha parecido un gran restaurante, una buena atencion y los productos son muy buenos",
+    "type": "ic_good"
+  },
+  {
+    "idComment": 2,
+    "id_restaurant": 1,
+    "Comment": "Buenas hamburguesas pero el servicio ha sido muy malo. No voy a volver.",
+    "type": "ic_bad"
+  },
+  {
+    "idComment": 3,
+    "id_restaurant": 1,
+    "name": "Bun's Restaurant",
+    "Comment": "Excelente restaurante, volveremos pronto sin duda!!",
+    "type": "ic_good"
+  },
+  {
+    "idComment": 4,
+    "id_restaurant": 1,
+    "name": "Bun's Restaurant",
+    "Comment": "El trato de los camareros deja mucho que desear",
+    "type": "ic_bad"
+  },
+  {
+    "idComment": 5,
+    "id_restaurant": 1,
+    "name": "Bun's Restaurant",
+    "Comment": "Pedi la carne muy hecha y salio casi cruda para mi gusto",
+    "type": "ic_bad"
+  },
+  {
+  "idComment": 6,
+  "id_restaurant": 1,
+    "name": "Bun's Restaurant",
+  "Comment": "Las hamburguesas son su especialidad y son increibles",
+  "type": "ic_good"
+}
+]

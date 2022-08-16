@@ -1,0 +1,124 @@
+[
+  {
+    "id": 1,
+    "name": "Bun's Restaurant",
+    "rating": 4.8,
+    "comments": 8,
+    "category": 5,
+    "direction": "Marques de Vadillo 25",
+    "photo": "burger_restaurant7"
+
+  },
+  {
+    "id": 2,
+    "name": "Grand Burger",
+    "rating": 5.3,
+    "comments": 4,
+    "category": 5,
+    "direction": "Direccion 1",
+    "photo": "burger_restaurant_1"
+
+  },
+  {
+    "id": 3,
+    "name": "Rodeo Burger",
+    "rating": 3.8,
+    "comments": 13,
+    "category": 5,
+    "direction": "Direccion 2",
+    "photo": "burger_restaurant_2"
+
+  },
+  {
+    "id": 4,
+    "name": "Maxi Burger",
+    "rating": 5,
+    "comments": 12,
+    "category": 5,
+    "direction": "Direccion 3",
+    "photo": "burger_restaurant_3"
+
+  },
+  {
+    "id": 5,
+    "name": "Palace Burger",
+    "rating": 5.8,
+    "comments": 15,
+    "category": 5,
+    "direction": "Direccion 5",
+    "photo": "burger_restaurant_4"
+
+  },
+  {
+    "id": 6,
+    "name": "Burger Bar",
+    "rating": 4.8,
+    "category": 5,
+    "comments": 7,
+    "direction": "Direccion 7",
+    "photo": "burger_restaurant_5"
+
+  },
+  {
+    "id": 7,
+    "name": "Pizza Pizza",
+    "rating": 4.8,
+    "comments": 8,
+    "category": 6,
+    "direction": "Marques de Vadillo 25",
+    "photo": "pizza_res_6"
+
+  },
+  {
+    "id": 8,
+    "name": "La Pizzateca",
+    "rating": 5.3,
+    "comments": 25,
+    "category": 6,
+    "direction": "Calle Lavapies 15",
+    "photo": "pizza_res_4"
+
+  },
+  {
+    "id": 9,
+    "name": "Pizza Rincón",
+    "rating": 3.8,
+    "comments": 13,
+    "category": 6,
+    "direction": "Gran Via 25",
+    "photo": "pizza_res_1"
+
+  },
+  {
+    "id": 10,
+    "name": "Buena Pizza",
+    "rating": 5,
+    "comments": 12,
+    "category": 6,
+    "direction": "Calle Segovia 20",
+    "photo": "pizza_res_5"
+
+  },
+  {
+    "id": 11,
+    "name": "Pizza Bar",
+    "rating": 5.8,
+    "comments": 15,
+    "category": 6,
+    "direction": "Direccion 5",
+    "photo": "pizza_res_2"
+
+  },
+  {
+    "id": 12,
+    "name": "Mi Pizza",
+    "rating": 4.8,
+    "category": 6,
+    "comments": 7,
+    "direction": "Direccion 7",
+    "photo": "pizza_res_3"
+
+  }
+
+
+]

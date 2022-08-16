@@ -1,0 +1,66 @@
+[
+  {
+    "menuId": 1,
+    "name": "Crispy Chicken Burger",
+    "photo": "burger2",
+    "categories": 5,
+    "rating": 4.6
+  },
+  {
+    "menuId": 2,
+    "name": "Rodeo Huevo",
+    "photo": "huevo",
+    "categories": 5,
+    "rating": 4
+  },
+  {
+    "menuId": 3,
+    "name": "Rodeo Doble",
+    "photo": "burger3",
+    "categories": 5,
+    "rating": 4.5
+  },
+  {
+    "menuId": 4,
+    "name": "Grand Burguer chicken",
+    "photo": "burger1",
+    "categories": 5,
+    "rating": 3.9
+  },
+  {
+    "menuId": 5,
+    "name": "Rodeo Combo",
+    "photo": "burger4",
+    "categories": 5,
+    "rating": 4.8
+  },
+
+  {
+    "menuId": 7,
+    "name": "Boa Hawaiana",
+    "photo": "pizza_res1",
+    "categories": 6,
+    "rating": 5.6
+  },
+  {
+    "menuId": 8,
+    "name": "Pizzateca Maestra",
+    "photo": "pizza_res2",
+    "categories": 6,
+    "rating": 4
+  },
+  {
+    "menuId": 9,
+    "name": "Pizzarteca Speciale",
+    "photo": "pizza_res3",
+    "categories": 6,
+    "rating": 4.5
+  },
+  {
+    "menuId": 10,
+    "name": "Boa Vegetal",
+    "photo": "pizza_res4",
+    "categories": 6,
+    "rating": 3.9
+  }
+]
