@@ -15,3 +15,12 @@ Aplicación móvil nativa realizada en Java para la asignatura Interfaces de Usu
 
 Aqui se muestran los resultados finales de la aplicación con una secuencia de imagenes de las distintas vistas.</br>
 
+[![](https://github.com/IvanSopena/Interfaces_app_java/blob/main/ScreenShot/splash.jpg)]()
+[![](https://github.com/IvanSopena/Interfaces_app_java/blob/main/ScreenShot/Login.jpg)]()
+[![](https://github.com/IvanSopena/Interfaces_app_java/blob/main/ScreenShot/Mainwindow.jpg)]()
+[![](https://github.com/IvanSopena/Interfaces_app_java/blob/main/ScreenShot/Restaurants.jpg)]()
+[![](https://github.com/IvanSopena/Interfaces_app_java/blob/main/ScreenShot/RestaurantsComments.jpg)]()
+[![](https://github.com/IvanSopena/Interfaces_app_java/blob/main/ScreenShot/Fav.jpg)]()
+[![](https://github.com/IvanSopena/Interfaces_app_java/blob/main/ScreenShot/UserProfile.jpg)]()
+[![](https://github.com/IvanSopena/Interfaces_app_java/blob/main/ScreenShot/menu.jpg)]()
+[![](https://github.com/IvanSopena/Interfaces_app_java/blob/main/ScreenShot/Info.jpg)]()
